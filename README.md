@@ -1,6 +1,7 @@
-# learn-nuxt
+# Nuxt-Shop-Project
 
-인프런의 Nuxt.js 시작하기 강의 리포지토리입니다.
+>출처 : 인프런 Nuxt.js 시작하기 강의
+>Nuxt.js 기반 프로젝트
 
 ## 개발 환경 구성
 
