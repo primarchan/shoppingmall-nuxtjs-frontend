@@ -1,7 +1,7 @@
 # Nuxt-Shop-Project
 
 >출처 : 인프런 Nuxt.js 시작하기 강의
->Nuxt.js 기반 프로젝트
+>Nuxt.js 기반 프론트 프로젝트
 
 ## 개발 환경 구성
 
